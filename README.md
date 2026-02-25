@@ -15,3 +15,6 @@ GitHub:
 2. **Create a branch**: `git checkout -b feature-name`
 3. **Commit changes**: `git commit -m "Add helpful message"`
 4. **Push to GitHub**: `git push origin feature-name`
+
+
+NEW FEATURES ARE ADDED.......................................................................................................................
